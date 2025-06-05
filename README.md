@@ -1,6 +1,6 @@
-# 💬 Real-Time Chat App
+# 💬 TalkHub App
 
-**Real-Time Chat App** is a full-stack, one-to-one chat application built with the **MERN stack** and **Socket.IO**, providing users with a platform to exchange messages instantly. It integrates **JWT** for secure authentication and ensures persistent message storage with **MongoDB**.
+**TalkHub** is a full-stack, one-to-one chat application built with the **MERN stack** and **Socket.IO**, providing users with a platform to exchange messages instantly. It integrates **JWT** for secure authentication and ensures persistent message storage with **MongoDB**.
 
 ---
 
