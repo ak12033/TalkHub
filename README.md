@@ -63,7 +63,7 @@ The application is deployed on **Vercel**, ensuring scalable and reliable hostin
 
 ## 🚀 Live Demo
 
-🌐 Click this: [https://work-hive-1ack.vercel.app](https://talk-hub-mbz5.vercel.app/)
+🌐 Click this: [https://talkhub.vercel.app](https://talk-hub-mbz5.vercel.app/)
 
 ---
 
